@@ -1,0 +1,5 @@
+{
+  "name": "Industrial Maintenance Intelligence Hub",
+  "description": "A high-precision dashboard for equipment maintenance and resumption reporting, featuring real-time data visualization, detailed event timelines, and AI-powered maintenance insights for the FC-ET-01 Etching Machine.",
+  "requestFramePermissions": []
+}
